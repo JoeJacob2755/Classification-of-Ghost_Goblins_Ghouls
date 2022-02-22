@@ -1,2 +1,2 @@
-# Insaid-Term-4-Project-Ghost_Goblins_Ghouls
-Classification done using Advanced ML Algorithms 
+# Classification Project
+Classification done using Advanced ML Algorithms to classify mythical creatures baded on their features
